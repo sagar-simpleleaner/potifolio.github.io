@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(7, 10, 42);
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
+.login{
+    margin-top: 10%;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+.input-row{
+    margin-bottom: 10px;
+}
+.input-row label{
+	display: block;
+	margin-bottom: 3px;
+    margin-left: -19rem;
+}
+
+.input-row input{
+	width: 20rem;
+	padding: 10px;
+	border:0;
+	border-radius: 3px;
+	outline: 0;
+	margin-bottom: 3px;
+	font-size: 18px;
+    margin-left: -2rem;
+	font-family: arial;
+}
+.input-row button {
+    width: 100px;
+    border: none;
+    height: 40px;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+    background: #0688a5;
+    color: #ffffff;
+    border-radius: 10px;
+    cursor: pointer;
+}
