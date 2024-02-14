@@ -3,6 +3,7 @@
     padding: 0;
     font-family: 'Times New Roman', Times, serif;
 }
+
 .all{
     background-color: rgb(7, 10, 42);
     color: white;
@@ -236,4 +237,92 @@ form{
 #certi{
     margin-left: 2rem;
     margin-right: 2rem;
+}
+.skills{
+    width: 60rem;
+    margin-left: 2rem;
+}
+.skill{
+    display: flex;
+}
+.process{
+    height: 1.5rem;
+    border-radius: 5rem;
+    width: 45rem;
+}
+.proc{
+    height: 1rem;
+    border-radius: 5rem;
+    background-color: #fff;
+    width: 90%;
+    margin-top: .2rem;
+    margin-left: .2rem;
+}
+.skill p{
+    margin-left: 1rem;
+}
+.process1{
+    height: 1.5rem;
+    border-radius: 5rem;
+    width: 45rem;
+}
+.proc1{
+    height: 1rem;
+    border-radius: 5rem;
+    background-color: #94ee27;
+    width: 98%;
+    margin-top: .2rem;
+    margin-left: .2rem;
+}
+.process2{
+    height: 1.5rem;
+    border-radius: 5rem;
+    width: 45rem;
+}
+.proc2{
+    height: 1rem;
+    border-radius: 5rem;
+    background-color: #ff0000;
+    width: 95%;
+    margin-top: .2rem;
+    margin-left: .2rem;
+}
+.process3{
+    height: 1.5rem;
+    border-radius: 5rem;
+    width: 45rem;
+}
+.proc3{
+    height: 1rem;
+    border-radius: 5rem;
+    background-color: #2200ff;
+    width: 75%;
+    margin-top: .2rem;
+    margin-left: .2rem;
+}
+.Bootstrap{
+    height: 1.5rem;
+    border-radius: 5rem;
+    width: 45rem;
+}
+.Boots{
+    height: 1rem;
+    border-radius: 5rem;
+    background-color: #a1ce0f;
+    width: 80%;
+    margin-top: .2rem;
+    margin-left: .2rem;
+}
+.React{
+    height: 1.5rem;
+    border-radius: 5rem;
+    width: 45rem;
+}
+.Reactjs{
+    height: 1rem;
+    border-radius: 5rem;
+    background-color: #ff6200;
+    width: 80%;
+    margin-top: .2rem;
+    margin-left: .2rem;
 }
